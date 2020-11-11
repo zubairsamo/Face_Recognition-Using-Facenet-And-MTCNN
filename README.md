@@ -1,5 +1,7 @@
 <h1 align="center">Face Recognition and Classification Using FaceNet and MTCNN</h1>
 
+![alt text](https://github.com/zubairsamo/Face_Recognition-Using-Facenet-And-MTCNN/blob/main/images/Figure_1.png)
+
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Visual-and-EDA-of-Corona-Virus.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/zubairsamo/Face_Recognition-Using-Facenet-And-MTCNN/fork)
